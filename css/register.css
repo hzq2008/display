@@ -1,0 +1,198 @@
+html,body,h1,h2,h6,div,span,ul,li,p,a{
+	margin:0;
+	padding: 0;
+	font-family: SimSun;
+}
+img{
+	vertical-align: top;
+}
+ol,ul{
+	list-style: none;
+}
+.logo{
+	margin-left: 55px;
+	display: inline;
+}
+#top img{
+	margin-top:24px;
+	width:169px;
+	height: 58px;
+	float: left;
+}
+#top p{
+	margin-left:1288px;
+	margin-top:72px; 
+}
+#top a{
+	text-decoration: none;
+}
+hr{
+	margin-left: 49px;
+	margin-right: 43px;
+	margin-top:13px ;
+
+}
+#denglu {
+	margin-left: 50px;
+	margin-top:50px;
+	width: 337px;
+	height:328px;
+	float:left;
+	background:url(../images/图层26.png) repeat-y;
+	
+}
+#denglu .ul{
+	width: 337px;
+	height: 28px;
+	background: #eb1a23;
+	float:left;
+	background-image: linear-gradient(0deg, #ac0209 0%, #eb1a23 100%);
+	 /*学习的地方*/
+}	
+
+#denglu li{
+	height: 11px;
+	line-height: 25px;
+	color: #ffffff;
+}
+#neirong {
+	background-color:#fafafa;
+	width: 337px;
+	height:328px;
+	float:left;
+}
+#neirong ul{
+	width: 50px;
+	height: 55px;
+	margin-left: 35px;
+	margin-top: 46px;
+	float: left;
+
+}
+#neirong li{
+	font-family: SimSun;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 22px;
+	letter-spacing: 0px;
+	color: #666666;
+}
+#neirong input{
+	margin-left:12px;
+	margin-top:39px;
+	width: 197px;
+	height: 25px;
+	border: solid 1px #c4c4c4;
+}
+#neirong #mm{
+	margin-top:20px;
+	margin-left: 12px;
+}
+#neirong #xz{
+	width: 13px;
+	height:13px;
+	margin-top:20px;
+	margin-left:88px;
+	float: left;
+}
+#neirong p{
+	width:60px;
+	height:11px;
+	margin-top:21px;
+	font-family: SimSun;
+	font-size: 12px;
+	color: #666666;
+	float: left;
+}
+#neirong #jzmm{
+	width: 13px;
+	height:13px;
+	margin-top:20px;
+	margin-left:32px;
+	float: left;
+}
+#neirong #dl{
+	background:url(../images/图层12.png);
+	width:95px;
+	height:26px;
+	margin-left: 89px;
+	margin-top: 24px;
+	background-image: linear-gradient(0deg, #9d040b 0%, #ed1b24 100%);
+	border: solid 1px #b60108;
+	color:#ffffff;
+}
+#neirong a{
+	width: 56px;
+	height: 11px;
+	margin-left: 10px;
+	font-size: 12px;
+	color: #999999;
+	text-decoration: none;
+}
+#neirong #zc {
+	width:185px;
+	height: 11px;
+	font-size: 12px;
+	color: #cb002b;
+	margin-left: 35px;
+}
+#neirong #zc a{
+	font-family: SimSun;
+	font-size: 12px;
+	color: #666666;
+}
+#neirong #zc input{
+	background:url(../images/图层6.png);
+	width:61px;
+	height:19px;
+	margin-left:6px;
+	margin-top: 24px;
+	color:#ffffff;
+	text-align:center;
+}
+#neirong hr{
+	margin-left: 10px;
+	margin-top: 21px;
+	width: 312px;
+	height: 1px;
+}
+#neirong img{
+	margin-left: 74px;
+	margin-top:5px;
+}
+#right img{
+	margin-top:95px;
+	margin-left:25px;
+}
+#right ul{
+	width:251px;
+	height:20px;
+	margin-left:508px;
+	margin-top:6px;
+	text-align:center;
+}
+#right li{
+	font-family:JXiHei;
+	font-size: 19px;
+	line-height:20px;
+	float: left;
+}
+#right .li1 {
+	letter-spacing: 0px;
+	color:#c00a11;
+}
+#right .li2{color: #dbdbdb;}
+#right .li3{color: #636363;}
+#bottom hr{
+	margin-top:61px;
+	height: 1px;
+	width:1235px;
+}
+.blink{
+	text-align: center;
+}
+.copyright{
+	text-align: center;
+}
+}

@@ -1,0 +1,84 @@
+ul{list-style:none;
+}
+#topcut .span1{
+	float: left;
+	font-family:SimSun;
+	color:#3b3b3b;
+	margin-left: 141px;
+	margin-top: 8px;
+}
+#topcut .link-regist{
+	font-family:SimSun;
+	color:#7f7f7f;
+}
+#topcut ul{
+	margin-left:812px;
+}
+#topcut li{
+	float:left;
+	height: 12px;
+	font-family: SimSun;
+	font-size: 12;
+	margin-top: 8px;
+	color: #3b3b3b;
+}
+
+#topcut .fore2{
+	font-size:2px;
+	color:#cc002c;
+	width: 155px;
+	height: 11px;
+	font-family: SimSun;
+	margin-top: 8px;
+}
+#logo_search img{
+	vertical-align:center;
+	width: 169px;
+	height: 58px;
+}
+#container .key{
+	font-family: SimSun;
+	font-size:2;
+	width:240px;
+
+}
+#container input:focus{ 
+	border-style: solid;
+	border-color:#00ccff;
+/*选中时改变颜色*/
+}
+#container .tj{
+	font-family: SimSun;
+	font-size:2;
+	background-color:#dddddd;
+}
+#container p{
+	font-family: SimSun;
+	font-size:4px;
+	color: #8a8a8a;
+}
+#container a{
+	text-decoration:none;
+}
+#nava-indext {
+	color:#fbe704;
+  text-decoration:none;
+}
+#navaa-index a,#nav-index a:visited{
+  color:#fbe704;
+  text-decoration:none;
+}
+#nava-index a:hover{
+  color:#fbe704;
+  text-decoration:underline;
+}
+#nava-extra  ul li{
+	float:left;
+	width: 78px;
+	height: 40px;
+	line-height: 40px;
+	font-family: SimSun;
+	font-size:2;
+	text-align:center;
+	color: #3b3b3b;
+}
